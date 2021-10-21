@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{coursework.html}, nofooter
+==Coursework
+
+Controls:
+
+- Mathematical Methods for Engineering (E231, Prof. Andrew Packard, [https://me.berkeley.edu/people/mark-mueller/ Prof. Mark Mueller], [https://www2.eecs.berkeley.edu/Faculty/Homepages/arcak.html Prof.Murat Arcak])
+- Advanced Control Systems I (ME C232, [https://me.berkeley.edu/people/kameshwar-poolla/ Prof. Kameshwar Poolla])
+- Advanced Control Systems II (ME C233, [https://me.berkeley.edu/people/masayoshi-tomizuka/ Prof. Masayoshi Tomizuka])
+
+Artificial Intelligence:
+
+- Introduction to Machine Learning (CS289, [https://people.eecs.berkeley.edu/~jrs/ Prof. Jonathan Shewchuk])
+- Computer Vision (CS280, [http://people.eecs.berkeley.edu/~efros/ Prof. Alexei Efros], [https://people.eecs.berkeley.edu/~malik/ Prof. Jitendra Malik], [https://www2.eecs.berkeley.edu/Faculty/Homepages/stellayu.html Prof. Stella Yu])
+- Deep Reinforcement Learning, Decision Making, and Control (CS285, [https://www2.eecs.berkeley.edu/Faculty/Homepages/svlevine.html Prof. Sergey Levine])
+
+Robotics:
+
+- Advanced Robotics (CS287, [https://www2.eecs.berkeley.edu/Faculty/Homepages/abbeel.html Prof. Pieter Abbeel])
+- Feedback Control of Legged Robots (ME292B, [https://me.berkeley.edu/people/koushil-sreenath/ Prof. Koushil Sreenath])
+
+Optimization:
+
+- Convex Optimization and Approximation (EECS227C, [https://people.eecs.berkeley.edu/~wainwrig/ Prof. Martin Wainwright]))

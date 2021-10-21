@@ -1,0 +1,30 @@
+# jemdoc: menu{MENU}{research.html}, nofooter
+==Research
+
+. Learning Insertion Primitives with Discrete-Continuous Hybrid Action Space for Robotic Assembly Tasks [https://msc.berkeley.edu/research/insertion-primitives.html Website]
+
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://youtu.be/4ostTqBOFsA" frameborder="0" allowfullscreen></iframe>
+~~~
+
+. Safe Online Gain Optimization for Variable Impedance Control, [https://msc.berkeley.edu/research/safe-ongo-vic.html Website]
+
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://youtu.be/T6KEq6VmpLg" frameborder="0" allowfullscreen></iframe>
+~~~
+
+. Online Learning of Unknown Dynamics for Model-Based Controllers in Legged Locomotion [https://ieeexplore.ieee.org/document/9525285 Paper]
+
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://youtu.be/Je 2Y-FQpKw" frameborder="0" allowfullscreen></iframe>
+~~~
+
+. Learning Variable Impedance Control via Inverse Reinforcement Learning for Force-Related Tasks [https://arxiv.org/pdf/2102.06838.pdf Paper], [https://msc.berkeley.edu/research/impedance-irl.html Website]
+
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://youtu.be/Je 2Y-FQpKw" frameborder="0" allowfullscreen></iframe>
+~~~

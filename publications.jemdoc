@@ -1,0 +1,9 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+==Publications
+(*: equal contribution)
+
+- *X. Zhang*, S. Jin, C. Wang, X. Zhu, M. Tomizuka “Learning Insertion Primitives with Discrete-Continuous Hybrid Action Space for Robotic Assembly Tasks", submitted to 2022 IEEE International Conference on Robotics and Automation (ICRA)
+- *X. Zhang*, L. Sun, Z. Kuang, M. Tomizuka “Learning Variable Impedance Control via Inverse Reinforcement Learning for Force-Related Tasks", IEEE Robotics and Automation Letters (RA-L), 2021
+- C. Wang\*, Z. Kuang\*, *X. Zhang\* *, M. Tomizuka “Safe Online Gain Optimization for Variable Impedance Control", submitted to 2022 IEEE International Conference on Robotics and Automation (ICRA)
+- Y. Sun, W. Ubellacker, W. Ma, *X. Zhang*, C. Wang,  N. Csomay-Shanklin, M. Tomizuka, K. Sreenath, A. Ames “Online Learning of Unknown Dynamics for Model-Based Controllers in Legged Locomotion", IEEE Robotics and Automation Letters (RA-L), 2021
+- Z. Kuang, *X. Zhang*, L. Sun, H. Gao, M. Tomizuka “Feedback-based digital higher-order terminal sliding mode for 6-dof industrial manipulators", American Control Conference (ACC), 20211

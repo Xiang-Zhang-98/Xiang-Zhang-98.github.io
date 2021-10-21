@@ -1,0 +1,44 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Xiang Zhang
+
+~~~
+{}{img_left}{IMG_2950.jpg}{alt text}{160}{160}
+Xiang Zhang
+
+Ph.D. student in Robotics at UC Berkeley
+
+Email: xiang_zhang_98\[at\]berkeley\[Dot\]edu
+
+[https://msc.berkeley.edu/ Mechanical Systems Control (MSC) Laboratory]
+
+[https://me.berkeley.edu/ Mechanical Engineering Department]
+
+[https://www.berkeley.edu/ University of California, Berkeley]
+~~~
+
+== About me
+
+I'm a third-year Ph.D. student in Robotics at the *[https://www.berkeley.edu/ University of California, Berkeley]*. I work with *[https://me.berkeley.edu/people/masayoshi-tomizuka/ Prof. Masayoshi Tomizuka]* in the [https://msc.berkeley.edu/ Mechanical Systems Control (MSC) Laboratory].
+
+My research interest lies in the interdisciplinary combination of robotics, artificial intelligence (AI), and control theories with applications to robot skill learning, robot manipulation. and machine learning for robot control.
+
+Here is my [cv.pdf Curriculum Vitae].
+
+== Recent Activities
+- Sep 2021: Paper /Learning Insertion Primitives with Discrete-Continuous Hybrid Action Space for Robotic Assembly Tasks/ submit to ICRA 2022.
+- Sep 2021: Paper /Safe  Online  Gain  Optimization  for  Variable  Impedance Control/ submit to ICRA 2022.
+- Sep 2021: Our work about optimization-basd variable impedance control is presented at the [https://sites.google.com/view/vilc-iros2021/home?authuser=0 VILC Workshop] of IROS'21
+- Jun 2021: Our paper /Online Learning of Unknown Dynamics for Model-Based Controllers in Legged Locomotion/ accept by RA-L
+- Feb 2021: Our paper /Learning Variable Impedance Control via Inverse Reinforcement Learning for Force-Related Tasks/ accept by RA-L
+- Jan 2021: Our paper /Feedback-based digital higher-order terminal sliding mode for 6-dof industrial manipulators/ accept by ACC'21
+- Aug 2019: I join Mechanical System Control Lab at UC Berkeley as a Ph.D. student!
+
+== Education
+
+- *Ph.D. in Mechanical Engineering, UC Berkeley, 2019 - 2024 (Expected)*
+    -- Major: Controls ~~~~~~ Minors: Robotics, Artificial Intelligence
+    -- GPA: 3.96/4.0   ~~~~~~~~      Advisor: Prof. Masayoshi Tomizuka
+    -- Research Interest: Robot Skill Learning, Robotic Manipulation, machine learning for robot control
+
+- *B.E. in Mechanical Engineering, University of Science and Technology of China (USTC), 2015 - 2019*
+    -- GPA: 3.83\/4.3 ~~~~~~~ Ranking: 1\/60

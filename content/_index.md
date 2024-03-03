@@ -5,7 +5,7 @@ draft: false
 
 I'm a fifth-year Ph.D. student in Robotics at the [University of California, Berkeley](https://www.berkeley.edu). I work with [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/) in the [Mechanical Systems Control (MSC) Laboratory](https://msc.berkeley.edu/).
 
-My research interest lies in the interdisciplinary combination of robotics, artificial intelligence (AI), and control theories with applications to **robot contact-rich manipulation**, **robot skill learning**, and **learning/optimization-based compliance control**.
+My research interest lies in the interdisciplinary combination of robotics, artificial intelligence (AI), and control theories with applications to robot contact-rich manipulation, robot skill learning, and learning for control.
 
 ---
 #### News
@@ -59,7 +59,7 @@ IEEE Robotics and Automation Letters (RAL) 2023
 
 ICRA 2023
 
-\[[Paper](https://arxiv.org/pdf/2308.14984.pdf)\]
+\[[Paper](https://arxiv.org/pdf/2305.02554.pdf)\]
 {{< /columns >}}
 
 {{< columns "/images/difftransfer.png" "200px" "140px">}}

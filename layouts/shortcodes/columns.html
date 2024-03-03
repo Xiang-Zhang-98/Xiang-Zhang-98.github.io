@@ -1,0 +1,11 @@
+<div class="container" style="margin-bottom: 20px;">
+  <div class="row">
+    <div class="col-md-auto">
+      <!-- Use width and height parameters, if provided -->
+      <img src="{{ .Get 0 }}" alt="Image description" style="width: {{ .Get 1 }}; height: {{ .Get 2 }};">
+    </div>
+    <div class="col-md-8" style="line-height: 1.0;">
+      {{ .Inner | markdownify }}
+    </div>
+  </div>
+</div>

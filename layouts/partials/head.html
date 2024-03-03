@@ -1,0 +1,28 @@
+<head>
+    <title>{{ .Site.Title }}</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/logo/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/logo/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/logo/favicon-16x16.png">
+    <link rel="manifest" href="/logo/site.webmanifest">
+
+    {{/* Adds complete override capability */}}
+    {{ $overrideTemplate := resources.Get "sass/override.scss" }}
+    {{ $override := $overrideTemplate | resources.ExecuteAsTemplate "css/theme.scss" . | toCSS | minify }}
+    <link rel="stylesheet" href="{{ $override.RelPermalink }}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css">
+
+    {{/* Adds custom styles capability */}}
+    {{ $customTemplate := resources.Get "sass/custom.scss" }}
+    {{ if $customTemplate }}
+    {{ $custom := $customTemplate | resources.ExecuteAsTemplate "css/custom.scss" . | toCSS | minify }}
+    <link rel="stylesheet" href="{{ $custom.RelPermalink }}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css">
+    {{ end }}
+
+    {{ template "_internal/google_analytics.html" . }}
+</head>
